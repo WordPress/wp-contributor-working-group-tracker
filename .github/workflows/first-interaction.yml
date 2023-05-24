@@ -11,7 +11,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: actions/first-interaction@main
         with:
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          repo-token: ${{ secrets.WP_TOKEN }}
           issue-message: |
             Hello! Thank you for filing an issue.
 
