@@ -1,1 +1,1 @@
-# wp-contributor-working-group-tracker
+# WordPress Contributor Working Group: Project Tracker
